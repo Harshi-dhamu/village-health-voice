@@ -42,7 +42,6 @@ workers quickly assess symptoms and decide:
 ## 🎯 Hackathon
 Built for the **Gemma 4 Good Hackathon** by Google DeepMind
 - Track: Health & Sciences
-- Prize Pool: $200,000
 
 ## 👩‍💻 Developer
 Harshi Dhamu — Chennai, Tamil Nadu, India
