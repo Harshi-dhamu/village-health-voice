@@ -32,6 +32,12 @@ workers quickly assess symptoms and decide:
 - **Interface:** Jupyter Notebook with ipywidgets
 - **Platform:** Kaggle
 
+## 🌐 Live Demo
+👉 **[Try it here](https://huggingface.co/spaces/HarshiDhamu/village-health-voice)**
+
+## 📸 Screenshots
+*Coming soon*
+
 ## 🚀 How to Run
 1. Open the Kaggle notebook
 2. Add your Google AI Studio API key as a Kaggle Secret named `GOOGLE_API_KEY`
